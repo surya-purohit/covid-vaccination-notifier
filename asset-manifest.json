@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covid-vaccination-notifier/static/css/main.8cc24120.chunk.css",
-    "main.js": "/covid-vaccination-notifier/static/js/main.6e5908c3.chunk.js",
-    "main.js.map": "/covid-vaccination-notifier/static/js/main.6e5908c3.chunk.js.map",
+    "main.js": "/covid-vaccination-notifier/static/js/main.0b140b89.chunk.js",
+    "main.js.map": "/covid-vaccination-notifier/static/js/main.0b140b89.chunk.js.map",
     "runtime-main.js": "/covid-vaccination-notifier/static/js/runtime-main.ce4a58a1.js",
     "runtime-main.js.map": "/covid-vaccination-notifier/static/js/runtime-main.ce4a58a1.js.map",
     "static/js/2.97574ba9.chunk.js": "/covid-vaccination-notifier/static/js/2.97574ba9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce4a58a1.js",
     "static/js/2.97574ba9.chunk.js",
     "static/css/main.8cc24120.chunk.css",
-    "static/js/main.6e5908c3.chunk.js"
+    "static/js/main.0b140b89.chunk.js"
   ]
 }
